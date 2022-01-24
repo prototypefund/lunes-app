@@ -31,6 +31,7 @@ export const styles = StyleSheet.create({
   },
   headerRightContainer: {
     paddingRight: 15,
+    paddingLeft: 15,
     flexShrink: 1
   },
   headerLeftContainer: {
